@@ -20,40 +20,32 @@ Here are some ideas to get you started:
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aja237&hide_title=true&langs_count=10&hide=G-code&hide_border=true&layout=donut-vertical&exclude_repo=babel,convert">
 </picture>
 </a>
-
 &nbsp;&nbsp;&nbsp;
-<a href="https://stackoverflow.com/users/1544937/jacob-philpott?tab=profile">
+<a href="https://www.linkedin.com/in/jordan-agha-983a78265">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aja237/aja237/main/imgs/social/dark/stackoverflow.png">
-<img src="https://raw.githubusercontent.com/aja237/aja237/main/imgs/social/light/stackoverflow.png" width="42" height="42">
-</picture>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/aja237">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aja237/aja237/main/imgs/social/dark/linkedin.png">
-<img src="https://raw.githubusercontent.com/aja237/aja237/main/imgs/social/light/linkedin.png" width="42" height="42">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aja237/aja237/main/social/dark/linkedin.png">
+<img src="https://raw.githubusercontent.com/aja237/aja237/main/social/light/linkedin.png" width="42" height="42">
 </picture>
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.facebook.com/aja237">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="[https://raw.githubusercontent.com/aja237/aja237/main/imgs/social/dark/facebook.png](https://www.freepik.com/free-psd/realistic-facebook-3d-icon-isolated-transparent-background_262893542.htm#query=facebook%20logo%20transparent&position=0&from_view=keyword&track=ais_hybrid&uuid=ae90a995-44e6-4b02-9a9b-9395ca7df005)">
-<img src="https://raw.githubusercontent.com/aja237/aja237/main/imgs/social/light/facebook.png" width="42" height="42">
+<source media="(prefers-color-scheme: dark)" srcset="[https://raw.githubusercontent.com/aja237/aja237/main/social/dark/facebook.png](https://www.freepik.com/free-psd/realistic-facebook-3d-icon-isolated-transparent-background_262893542.htm#query=facebook%20logo%20transparent&position=0&from_view=keyword&track=ais_hybrid&uuid=ae90a995-44e6-4b02-9a9b-9395ca7df005)">
+<img src="https://raw.githubusercontent.com/aja237/aja237/main/social/light/facebook.png" width="42" height="42">
 </picture>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/__aja237__">
+<a href="https://twitter.com/azumbi_j">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aja237/aja237/main/imgs/social/dark/twitter.png">
-<img src="https://raw.githubusercontent.com/aja237/aja237/main/imgs/social/light/twitter.png" width="42" height="42">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aja237/aja237/main/social/dark/twitter.png">
+<img src="https://raw.githubusercontent.com/aja237/aja237/main/social/light/twitter.png" width="42" height="42">
 </picture>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://www.youtube.com/@aja237">
+<a href="https://www.youtube.com/@JordanAgha-19">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aja237/aja237/main/imgs/social/dark/youtube.png">
-<img src="https://raw.githubusercontent.com/aja237/aja237/main/imgs/social/light/youtube.png" width="42" height="42">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aja237/aja237/main/social/dark/youtube.png">
+<img src="https://raw.githubusercontent.com/aja237/aja237/main/social/light/youtube.png" width="42" height="42">
 </picture>
 </a>
 &nbsp;&nbsp;&nbsp;
