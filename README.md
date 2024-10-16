@@ -76,6 +76,11 @@ Here are some ideas to get you started:
         <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=aja237&theme=github-light&area=true&hide_border=true&custom_title=Past%20Months%20Activity">
     </picture>
 </a>
+## 🏆 GitHub Trophies 🏆
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=aja237&theme=darkhub&row=2&column=3&margin-w=20&margin-h=20)](https://github.com/aja237/github-profile-trophy)
+
+<br> <be>
 
 <h3 align="center">
     <a href="https://www.githubtrends.io/wrapped/aja237">
