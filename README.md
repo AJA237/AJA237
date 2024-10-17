@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 
 ### SOS Cameroon (Android & IOS)
 
-**Description:** SOS Cameroon is designed to provide immediate help during emergencies with features like a Panic Button, Voice Alerts, and Location Sharing. The app allows users to quickly alert their chosen contacts, sharing their real-time location with just a tap, voice command, or gesture. Whether you're in an unsafe situation or need assistance, SOS by Caasitech empowers you to take action and get help fast. Download the app for peace of mind and safety at your fingertips.
+**Description:** SOS Cameroon is designed to provide immediate help during emergencies with features like a Panic Button, Voice Alerts, and Location Sharing. The app allows users to quickly alert their chosen contacts, sharing their real-time location with just a tap, voice command, or gesture. Whether you're in an unsafe situation or need assistance, SOS Cameroon empowers you to take action and get help fast. Download the app for peace of mind and safety at your fingertips.
 
 **Architecture:** Clean Code Architecture, Layered Approach used (data, domain, presentation layers), Google Maps
 
