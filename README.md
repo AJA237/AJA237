@@ -74,11 +74,40 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aja237&theme=darkhub&row=2&column=-1&margin-w=20&margin-h=20&title=-Followers,-Reviews,-Issues)](https://github.com/aja237/github-profile-trophy)
 
+## 🚀 Featured Projects
+
+
+### SOS Cameroon (Android & IOS)
+
+**Description:** SOS by Caasitech is designed to provide immediate help during emergencies with features like a Panic Button, Voice Alerts, and Location Sharing. The app allows users to quickly alert their chosen contacts, sharing their real-time location with just a tap, voice command, or gesture. Whether you're in an unsafe situation or need assistance, SOS by Caasitech empowers you to take action and get help fast. Download the app for peace of mind and safety at your fingertips.
+
+**Architecture:** Clean Code Architecture, Layered Approach used (data, domain, presentation layers), Google Maps
+
+**State Management:** BLoC (cubit)
+
+
+<div style="display: flex; justify-content: center;">
+  <p align="center">
+    <a href="https://play.google.com/store/apps/details?id=com.sosbycaasitech.cameroon">
+      <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200" alt="AppStore">
+    </a>
+  </p>
+<!--   <p align="center">
+    <a href="https://apps.apple.com/us/app/tripplnr-com/id6470180069">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Download_on_the_App_Store_Badge_IT_RGB_blk.svg/800px-Download_on_the_App_Store_Badge_IT_RGB_blk.svg.png" width="180" alt="Google Play Store">
+    </a>
+  </p> -->
+</div>
+
 <br> <be>
-<h2 style="text-align: center;">Tech</h2>
+<h2 style="text-align: center;">Design</h2>
 <br>
 
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+
+<h2 style="text-align: center;">Database</h2>
+<br>
+
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 <h2 style="text-align: center;">Frameworks</h2>
 <br>
@@ -93,6 +122,7 @@ Here are some ideas to get you started:
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 <h2 style="text-align: center;">Languages</h2>
 <br>
 
