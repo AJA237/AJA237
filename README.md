@@ -128,8 +128,9 @@ Here are some ideas to get you started:
 
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aja237" alt="sudnyeshtalekar" /> </p>
+<hr>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=aja237" alt="sudnyeshtalekar" /> </p>
 <h3 align="center">
     <a href="https://www.githubtrends.io/wrapped/aja237">
         More Stats
