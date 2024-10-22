@@ -14,12 +14,16 @@ Here are some ideas to get you started:
 -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+My+Github+👋🏾;Explore,+enjoy,+and+feel+free.;Happy+coding!+🚀)](https://git.io/typing-svg)
+
 <a href="https://github.com/aja237/github-readme-stats">
+    
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aja237&hide_title=true&langs_count=10&hide=G-code&hide_border=true&theme=dark&bg_color=0e1116&title_color=ffffff&text_color=ffffff&layout=donut-vertical&exclude_repo=babel,convert">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aja237&hide_title=true&langs_count=10&hide=G-code&hide_border=true&layout=donut-vertical&exclude_repo=babel,convert">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aja237&hide_title=true&langs_count=10&hide=G-code&hide_border=true&layout=donut-vertical">
 </picture>
+
 </a>
+    
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/jordan-agha-983a78265">
 <picture>
