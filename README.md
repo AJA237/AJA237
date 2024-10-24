@@ -15,13 +15,11 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+My+Github+👋🏾;Explore,+enjoy,+and+feel+free.;Happy+coding!+🚀)](https://git.io/typing-svg)
 
-<a href="https://github.com/aja237/github-readme-stats">
-    
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aja237&hide_title=true&langs_count=10&hide=G-code&hide_border=true&theme=dark&bg_color=0e1116&title_color=ffffff&text_color=ffffff&layout=donut-vertical&exclude_repo=babel,convert">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aja237&hide_title=true&langs_count=10&hide=G-code&hide_border=true&layout=donut-vertical">
-</picture>
-
+<a href="https://github.com/AJA237/github-readme-stats">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AJA237&hide_title=true&langs_count=10&hide=G-code&hide_border=true&theme=dark&bg_color=0e1116&title_color=ffffff&text_color=ffffff&layout=donut-vertical&exclude_repo=babel,convert">
+        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJA237&hide_title=true&langs_count=10&hide=G-code&hide_border=true&layout=donut-vertical&exclude_repo=babel,convert">
+    </picture>
 </a>
     
 &nbsp;&nbsp;&nbsp;
@@ -31,14 +29,18 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/aja237/aja237/main/social/light/linkedin.png" width="42" height="42">
 </picture>
 </a>
+
 &nbsp;&nbsp;&nbsp;
+
 <a href="https://www.facebook.com/jordan.aja.353">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="[https://raw.githubusercontent.com/aja237/aja237/main/social/dark/facebook.png](https://www.freepik.com/free-psd/realistic-facebook-3d-icon-isolated-transparent-background_262893542.htm#query=facebook%20logo%20transparent&position=0&from_view=keyword&track=ais_hybrid&uuid=ae90a995-44e6-4b02-9a9b-9395ca7df005)">
 <img src="https://raw.githubusercontent.com/aja237/aja237/main/social/light/facebook.png" width="42" height="42">
 </picture>
 </a>
+
 &nbsp;&nbsp;&nbsp;
+
 <a href="https://twitter.com/azumbi_j">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aja237/aja237/main/social/dark/twitter.png">
