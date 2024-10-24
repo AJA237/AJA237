@@ -21,38 +21,35 @@ Here are some ideas to get you started:
         <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJA237&hide_title=true&langs_count=10&hide=G-code&hide_border=true&layout=donut-vertical&exclude_repo=babel,convert">
     </picture>
 </a>
-    
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/jordan-agha-983a78265">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aja237/aja237/main/social/dark/linkedin.png">
-<img src="https://raw.githubusercontent.com/aja237/aja237/main/social/light/linkedin.png" width="42" height="42">
-</picture>
-</a>
+
 
 &nbsp;&nbsp;&nbsp;
-
-<a href="https://www.facebook.com/jordan.aja.353">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="[https://raw.githubusercontent.com/aja237/aja237/main/social/dark/facebook.png](https://www.freepik.com/free-psd/realistic-facebook-3d-icon-isolated-transparent-background_262893542.htm#query=facebook%20logo%20transparent&position=0&from_view=keyword&track=ais_hybrid&uuid=ae90a995-44e6-4b02-9a9b-9395ca7df005)">
-<img src="https://raw.githubusercontent.com/aja237/aja237/main/social/light/facebook.png" width="42" height="42">
-</picture>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://twitter.com/azumbi_j">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aja237/aja237/main/social/dark/twitter.png">
-<img src="https://raw.githubusercontent.com/aja237/aja237/main/social/light/twitter.png" width="42" height="42">
-</picture>
+<a href="https://www.linkedin.com/in/jordan-agha-983a78265" target="_blank">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aja237/aja237/main/social/dark/linkedin.png">
+        <img src="https://raw.githubusercontent.com/aja237/aja237/main/social/light/linkedin.png" width="42" height="42">
+    </picture>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://www.youtube.com/@JordanAgha-19">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aja237/aja237/main/social/dark/youtube.png">
-<img src="https://raw.githubusercontent.com/aja237/aja237/main/social/light/youtube.png" width="42" height="42">
-</picture>
+<a href="[https://www.facebook.com/jgphilpott](https://www.facebook.com/jordan.aja.353)" target="_blank">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jgphilpott/jgphilpott/main/imgs/social/dark/facebook.png">
+        <img src="https://raw.githubusercontent.com/aja237/aja237/main/social/light/facebook.png" width="42" height="42">
+    </picture>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/azumbi_j" target="_blank">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aja237/aja237/main/social/dark/twitter.png">
+        <img src="https://raw.githubusercontent.com/aja237/aja237/main/social/light/twitter.png" width="42" height="42">
+    </picture>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/@JordanAgha-19" target="_blank">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aja237/aja237/main/social/dark/youtube.png">
+        <img src="https://raw.githubusercontent.com/aja237/aja237/main/social/light/youtube.png" width="42" height="42">
+    </picture>
 </a>
 &nbsp;&nbsp;&nbsp;
 
@@ -138,7 +135,7 @@ Here are some ideas to get you started:
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aja237" alt="sudnyeshtalekar" /> </p>
 <h3 align="center">
-    <a href="https://www.githubtrends.io/wrapped/aja237">
+    <a href="https://www.githubtrends.io/wrapped/aja237" target="_blank">
         More Stats
     </a>
 </h3>
