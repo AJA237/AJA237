@@ -102,6 +102,59 @@ Here are some ideas to get you started:
   </p> -->
 </div>
 
+### CamVoyage by Caasitech
+
+**Description:** CamVoyage is an innovative platform aimed at promoting tourism and cultural heritage in Cameroon. It provides users with:​
+- Curated travel experiences highlighting Cameroon's diverse landscapes and cultures.
+- Interactive guides and resources for both local and international tourists.
+- Integration with local businesses to boost community engagement and economic growth.​
+
+This project reflects a commitment to leveraging technology for cultural preservation and economic development in Cameroon.
+**Architecture:** Clean Code Architecture, Layered Approach used (data, domain, presentation layers), Google Maps
+
+**State Management:** Redox
+
+
+<div style="display: flex; justify-content: center;">
+  <p align="center">
+    <a href="https://play.google.com/store/apps/details?id=com.sosbycaasitech.cameroon">
+      <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200" alt="AppStore">
+    </a>
+  </p>
+<!--   <p align="center">
+    <a href="https://apps.apple.com/us/app/tripplnr-com/id6470180069">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Download_on_the_App_Store_Badge_IT_RGB_blk.svg/800px-Download_on_the_App_Store_Badge_IT_RGB_blk.svg.png" width="180" alt="Google Play Store">
+    </a>
+  </p> -->
+</div>
+
+### TechStart by Caasitech (Web)
+
+**Description:** TechStart is a comprehensive career discovery platform designed to guide individuals—ranging from students to professionals—toward sustainable tech careers aligned with their strengths and goals. The platform offers:​
+- A proprietary assessment tool analyzing personality, learning styles, and career aspirations.
+- Two tailored tracks: TechStart Youth for middle and high school students, and TechStart Pro for adults and career changers.
+- Structured coaching, personalized career roadmaps, and access to a Career Success Hub.​
+
+This initiative has empowered over 500 individuals across the U.S., Nigeria, and Cameroon to make informed decisions about their tech career paths.
+
+**Architecture:** Clean Code Architecture, Layered Approach used (data, domain, presentation layers), Google Maps
+
+**State Management:** BLoC (cubit)
+
+
+<div style="display: flex; justify-content: center;">
+  <p align="center">
+    <a href="https://play.google.com/store/apps/details?id=com.sosbycaasitech.cameroon">
+      <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200" alt="AppStore">
+    </a>
+  </p>
+<!--   <p align="center">
+    <a href="https://apps.apple.com/us/app/tripplnr-com/id6470180069">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Download_on_the_App_Store_Badge_IT_RGB_blk.svg/800px-Download_on_the_App_Store_Badge_IT_RGB_blk.svg.png" width="180" alt="Google Play Store">
+    </a>
+  </p> -->
+</div>
+
 <br> <be>
 <h2 style="text-align: center;">Frameworks</h2>
 <br>
